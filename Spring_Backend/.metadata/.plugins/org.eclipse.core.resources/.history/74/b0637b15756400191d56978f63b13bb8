@@ -1,0 +1,5 @@
+package com.arghya.tool.springbackend.repositories;
+
+public interface ProjectRepository {
+
+}
